@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Practice\EmployeeDB\bin\Debug\EmployeeDB.dacpac
+C:\Users\USER\Documents\Practice\EmployeeDB\bin\Debug\EmployeeDB.dll
+C:\Users\USER\Documents\Practice\EmployeeDB\bin\Debug\EmployeeDB.pdb
+C:\Users\USER\Documents\Practice\EmployeeDB\obj\Debug\EmployeeDB.sqlproj.AssemblyReference.cache
+C:\Users\USER\Documents\Practice\EmployeeDB\obj\Debug\EmployeeDB.dll
+C:\Users\USER\Documents\Practice\EmployeeDB\obj\Debug\EmployeeDB.pdb
